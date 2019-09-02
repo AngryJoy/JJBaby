@@ -26,5 +26,5 @@ Summarize all the issues here after closing!
 | 10/10/2019 | 39 |   |   |   |   |   |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
 
-### :woman: Mom's weight tracking
+### :woman: Mom's weight tracking :chart_with_upwards_trend:
 ![trend](https://github.com/AngryJoy/JJBaby/blob/master/tracking/notebooks/mom_weight_growth.png)
