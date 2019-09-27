@@ -3,7 +3,7 @@
 
 Summarize all the issues here after closing!
 
-## When waiting for Baby
+## When waiting for baby
 
 ### :man: Daddy's bedtime story :first_quarter_moon_with_face:
 
@@ -21,7 +21,7 @@ Summarize all the issues here after closing!
 | 9/5/2019 | 34 | 糊涂的小老鼠 | 小青虫变蝴蝶 | 田鼠与家鼠 | 最好吃的蛋糕 | 麦穗的故事 | 会说话的卷心菜 | 
 | 9/12/2019 | 35 | 糖葫芦 |   | 不睡觉的海豚 |   | 小马和小猫 | 好心的小白兔 | 羡慕仙鹤的花母鸡 | 
 | 9/19/2019 | 36 | 白猫和花猫争鱼 |  | 迷路的小刺猬 | 聪明人 | 老天鹅 |   | 
-| 9/26/2019 | 37 |   |   |   |   |   |   |  
+| 9/26/2019 | 37 | 豌豆公主 |   |   |   |   |   |  
 | 10/3/2019 | 38 |   |   |   |   |   |   |  
 | 10/10/2019 | 39 |   |   |   |   |   |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
