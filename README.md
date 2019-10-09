@@ -25,9 +25,9 @@ See the full checklist for both mom and baby's list [here](./preparation/deliver
 See the full list of names we came up with [here](./preparation/names.md)  
 Final options -  
 
-| 候选 | 男宝宝 | 女宝宝 |
-| --- | --- | --- |
-| 大名 |  |  |
+| 候选 | 男宝宝 | 女宝宝 | 终选 |
+| --- | --- | --- | ---
+| 大名 | | |
 | 1 | 沈以歌 | 通用 |
 | 2 |  | 沈览月 |
 | 小名 | | |
