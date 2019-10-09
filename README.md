@@ -1,11 +1,50 @@
 # JJBaby
-:family: JJs' baby is coming :baby::maple_leaf::pig_nose:!!! It's a BIG BIG BIG project. I'm a poor project planner. However, fight to be a wonderful mom (hope so). And there's also a "horrible" dad, who always think raising baby is as easy as playing games. LET'S SEE!!!  
+:family: JJs' baby is coming :baby::maple_leaf::pig_nose:!!! It's a BIG BIG BIG project. I'm a poor project planner. However, fight to be a wonderful mom (hope so). And there's also a "horrible" dad, who always thinks raising baby is as easy as playing games. LET'S SEE!!!  
 
 Summarize all the issues here after closing!
+<!-- MarkdownTOC -->
 
+- [When waiting for baby](#when-waiting-for-baby)
+	- [Skincare](#skincare)
+	- [Delivery bag](#delivery-bag)
+	- [Names](#names)
+	- [Daily tracking](#daily-tracking)
+		- [:man: Daddy's bedtime story :first_quarter_moon_with_face:](#man-daddys-bedtime-story-firstquarter_moon_withface)
+		- [:woman: Mom's weight tracking :chart_with_upwards_trend:](#woman-moms-weight-tracking-chartwith_upwardstrend)
+- [Baby is here!](#baby-is-here)
+
+<!-- /MarkdownTOC -->
 ## When waiting for baby
+### Skincare
+Identify unfriendly skincare products by running [this](./skincare/identify_unfriendly_skincare_products.ipynb)
 
-### :man: Daddy's bedtime story :first_quarter_moon_with_face:
+### Delivery bag
+See the checklist for both mom and baby's list [here](./preparation/delivery_bag.md)
+
+### Names
+侯选 | 男宝宝 | 女宝宝 | 
+-- | -- | --
+大名
+1 | 沈知行  | 沈览月 
+2 | 沈知一  |  
+3 | 沈澈  |  通用
+4 | 沈略昊（什么鬼。。。） |
+5 | 沈涉典 （爸爸的口味）| 
+6 | 沈以歌 | 通用
+小名
+1 | 卡二条（四川话念）| 通用
+2 | 小桔子（爸爸起的，说是组合来着）| 通用
+3 | 啾啾or纠纠or久久  | 通用  
+4 | 点点 | 通用
+5 | 咯咯 | 通用
+英文名
+1 | Joey | 通用
+2 |   | Jade
+3 | Eagle  |   
+
+### Daily tracking
+
+#### :man: Daddy's bedtime story :first_quarter_moon_with_face:
 
 | Date | Weeks | **Thu** | Fri | Sat | Sun | Mon | Tue | Wed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,9 +61,13 @@ Summarize all the issues here after closing!
 | 9/12/2019 | 35 | 糖葫芦 |   | 不睡觉的海豚 |   | 小马和小猫 | 好心的小白兔 | 羡慕仙鹤的花母鸡 | 
 | 9/19/2019 | 36 | 白猫和花猫争鱼 |  | 迷路的小刺猬 | 聪明人 | 老天鹅 |   | 
 | 9/26/2019 | 37 | 豌豆公主 |   |   |   |   |   |  
-| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   |   |   |
+| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   | 白白和黑黑 |   |
 | 10/10/2019 | 39 |   |   |   |   |   |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
 
-### :woman: Mom's weight tracking :chart_with_upwards_trend:
-![trend](https://github.com/AngryJoy/JJBaby/blob/master/tracking/notebooks/mom_weight_growth.png)
+#### :woman: Mom's weight tracking :chart_with_upwards_trend:
+See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/notebooks/weight_growth.ipynb)
+![trend](./tracking/notebooks/mom_weight_growth.png)
+
+## Baby is here!
+
