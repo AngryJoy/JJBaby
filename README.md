@@ -1,7 +1,8 @@
-# JJBaby
+# JJs' Baby
 :family: JJs' baby is coming :baby::maple_leaf::pig_nose:!!! It's a BIG BIG BIG project. I'm a poor project planner. However, fight to be a wonderful mom (hope so). And there's also a "horrible" dad, who always thinks raising baby is as easy as playing games. LET'S SEE!!!  
 
 Summarize all the issues here after closing!
+# Table of Contents
 <!-- MarkdownTOC -->
 
 - [When waiting for baby](#when-waiting-for-baby)
@@ -11,6 +12,7 @@ Summarize all the issues here after closing!
 	- [Daily tracking](#daily-tracking)
 		- [:man: Daddy's bedtime story :first_quarter_moon_with_face:](#man-daddys-bedtime-story-firstquarter_moon_withface)
 		- [:woman: Mom's weight tracking :chart_with_upwards_trend:](#woman-moms-weight-tracking-chartwith_upwardstrend)
+- [Labor and delivery](#labor-and-delivery)
 - [Baby is here!](#baby-is-here)
 
 <!-- /MarkdownTOC -->
@@ -19,24 +21,21 @@ Summarize all the issues here after closing!
 Identify unfriendly skincare products by running [this](./skincare/identify_unfriendly_skincare_products.ipynb)
 
 ### Delivery bag
-See the checklist for both mom and baby's list [here](./preparation/delivery_bag.md)
+See the full checklist for both mom and baby's list [here](./preparation/delivery_bag.md)
 
 ### Names
-侯选 | 男宝宝 | 女宝宝 | 
+See the full list of names we came up with [here](./preparation/names.md)  
+Final options -  
+
+候选 | 男宝宝 | 女宝宝 | 
 -- | -- | --
 大名
-1 | 沈知行  | 沈览月 
-2 | 沈知一  |  
-3 | 沈澈  |  通用
-4 | 沈略昊（什么鬼。。。） |
-5 | 沈涉典 （爸爸的口味）| 
-6 | 沈以歌 | 通用
+1 | 沈以歌 | 通用
+2 |  | 沈览月
 小名
-1 | 卡二条（四川话念）| 通用
-2 | 小桔子（爸爸起的，说是组合来着）| 通用
-3 | 啾啾or纠纠or久久  | 通用  
-4 | 点点 | 通用
-5 | 咯咯 | 通用
+1 | 小桔子 | 通用
+2 | 点点 | 通用
+3 | 咯咯 | 通用
 英文名
 1 | Joey | 通用
 2 |   | Jade
@@ -68,6 +67,8 @@ See the checklist for both mom and baby's list [here](./preparation/delivery_bag
 #### :woman: Mom's weight tracking :chart_with_upwards_trend:
 See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/notebooks/weight_growth.ipynb)
 ![trend](./tracking/notebooks/mom_weight_growth.png)
+
+## Labor and delivery
 
 ## Baby is here!
 
