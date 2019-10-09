@@ -10,7 +10,7 @@ Summarize all the issues here after closing!
 	- [Delivery bag](#delivery-bag)
 	- [Names](#names)
 	- [Daily tracking](#daily-tracking)
-- [Labor and delivery](#labor-and-delivery)
+- [It's time!](#its-time)
 - [Baby is here!](#baby-is-here)
 
 <!-- /MarkdownTOC -->
@@ -25,7 +25,7 @@ See the full checklist for both mom and baby's list [here](./preparation/deliver
 See the full list of names we came up with [here](./preparation/names.md)  
 Final options -  
 
-| 候选 | 男宝宝 | 女宝宝 | 
+| 候选 | 男宝宝 | 女宝宝 |
 | --- | --- | --- |
 | 大名 |  |  |
 | 1 | 沈以歌 | 通用 |
@@ -66,7 +66,7 @@ Final options -
 See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/notebooks/weight_growth.ipynb)
 ![trend](./tracking/notebooks/mom_weight_growth.png)
 
-## Labor and delivery
+## It's time!
 
 ## Baby is here!
 
