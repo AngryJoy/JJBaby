@@ -10,8 +10,6 @@ Summarize all the issues here after closing!
 	- [Delivery bag](#delivery-bag)
 	- [Names](#names)
 	- [Daily tracking](#daily-tracking)
-		- [:man: Daddy's bedtime story :first_quarter_moon_with_face:](#man-daddys-bedtime-story-firstquarter_moon_withface)
-		- [:woman: Mom's weight tracking :chart_with_upwards_trend:](#woman-moms-weight-tracking-chartwith_upwardstrend)
 - [Labor and delivery](#labor-and-delivery)
 - [Baby is here!](#baby-is-here)
 
@@ -26,7 +24,6 @@ See the full checklist for both mom and baby's list [here](./preparation/deliver
 ### Names
 See the full list of names we came up with [here](./preparation/names.md)  
 Final options -  
-
 候选 | 男宝宝 | 女宝宝 | 
 -- | -- | --
 大名
@@ -42,8 +39,7 @@ Final options -
 3 | Eagle  |   
 
 ### Daily tracking
-
-#### :man: Daddy's bedtime story :first_quarter_moon_with_face:
+:man: Daddy's bedtime story :first_quarter_moon_with_face:  
 
 | Date | Weeks | **Thu** | Fri | Sat | Sun | Mon | Tue | Wed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -64,7 +60,8 @@ Final options -
 | 10/10/2019 | 39 |   |   |   |   |   |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
 
-#### :woman: Mom's weight tracking :chart_with_upwards_trend:
+:woman: Mom's weight tracking :chart_with_upwards_trend:  
+
 See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/notebooks/weight_growth.ipynb)
 ![trend](./tracking/notebooks/mom_weight_growth.png)
 
