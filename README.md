@@ -19,7 +19,7 @@ Summarize all the issues here after closing!
 Identify unfriendly skincare products by running [this](./skincare/identify_unfriendly_skincare_products.ipynb)
 
 ### Delivery bag
-See the full checklist for both mom and baby's list [here](./preparation/delivery_bag.md)
+See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
 
 ### Names
 See the full list of names we came up with [here](./preparation/names.md)  
@@ -57,14 +57,14 @@ Final options -
 | 9/12/2019 | 35 | 糖葫芦 |   | 不睡觉的海豚 |   | 小马和小猫 | 好心的小白兔 | 羡慕仙鹤的花母鸡 | 
 | 9/19/2019 | 36 | 白猫和花猫争鱼 |  | 迷路的小刺猬 | 聪明人 | 老天鹅 |   | 
 | 9/26/2019 | 37 | 豌豆公主 |   |   |   |   |   |  
-| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   | 白白和黑黑 |   |
+| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   | 白白和黑黑 | 想学本领的小猫 |
 | 10/10/2019 | 39 |   |   |   |   |   |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
 
 :woman: Mom's weight tracking :chart_with_upwards_trend:  
 
-See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/notebooks/weight_growth.ipynb)
-![trend](./tracking/notebooks/mom_weight_growth.png)
+See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/weight_growth.ipynb)
+![trend](./tracking/mom_weight_growth.png)
 
 ## It's time!
 
