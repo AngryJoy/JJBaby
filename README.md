@@ -7,20 +7,16 @@ Summarize all the issues here after closing!
 
 - [When waiting for baby](#when-waiting-for-baby)
 	- [Skincare](#skincare)
-	- [Delivery bag](#delivery-bag)
 	- [Names](#names)
 	- [Daily tracking](#daily-tracking)
 - [It's time!](#its-time)
+	- [Delivery bag](#delivery-bag)
 - [Baby is here!](#baby-is-here)
 
 <!-- /MarkdownTOC -->
 ## When waiting for baby
 ### Skincare
 Identify unfriendly skincare products by running [this](./skincare/identify_unfriendly_skincare_products.ipynb)
-
-### Delivery bag
-See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
-
 ### Names
 See the full list of names we came up with [here](./preparation/names.md)  
 Final options -  
@@ -67,6 +63,8 @@ See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/weight_
 ![trend](./tracking/mom_weight_growth.png)
 
 ## It's time!
+### Delivery bag
+See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
 
 ## Baby is here!
 
