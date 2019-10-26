@@ -24,15 +24,16 @@ Final options -
 | 候选 | 男宝宝 | 女宝宝 | 终选 |
 | --- | --- | --- | ---
 | 大名 | | |
-| 1 | 沈以歌 | 通用 |
+| 1 | 沈以歌 | 通用 | YES
 | 2 |  | 沈览月 |
 | 小名 | | |
 | 1 | 小桔子 | 通用 |
 | 2 | 点点 | 通用 |
 | 3 | 咯咯 | 通用 |
+| 4 | 准准 | 通用 | YES
 | 英文名 | | |
 | 1 | Joey | 通用 |
-| 2 |   | Jade |
+| 2 |   | Jade | (too bitchy after watching why women kill)
 | 3 | Eagle |  |    
 
 ### Daily tracking
@@ -65,6 +66,20 @@ See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/weight_
 ## It's time!
 ### Delivery bag
 See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
+### Labor and child birth
+Timeline -   
+- 10/15  
+10:00 pm: 褐色分泌物  
+11:48 pm: 宫缩阵痛  
+- 10/16  
+8:00 am: 内检开半指，住院，从早上到下午宫缩频率不高，没有进步  
+9:45 pm: 破水，阵痛加剧  
+11:45 pm：开到快两指，准备进产房  
+- 10/17  
+12:00 am+: 推进产房，打无痛前内检已经开到四五指    
+1:00 am+: 打上无痛，太累睡着了  
+3:00 am+: 开到十指，导乐辅助调整宝宝位置，用了花生球，然后助产士接生  
+4:13 am: 宝宝出生，亲密接触1小时  
 
 ## Baby is here!
-
+It's a girl as I wish! Big surprise!
