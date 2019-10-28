@@ -67,4 +67,3 @@ See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/weight_
 See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
 
 ## Baby is here!
-
