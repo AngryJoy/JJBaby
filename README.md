@@ -7,20 +7,17 @@ Summarize all the issues here after closing!
 
 - [When waiting for baby](#when-waiting-for-baby)
 	- [Skincare](#skincare)
-	- [Delivery bag](#delivery-bag)
 	- [Names](#names)
 	- [Daily tracking](#daily-tracking)
 - [It's time!](#its-time)
+	- [Delivery bag](#delivery-bag)
+	- [Labor and child birth](#labor-and-child-birth)
 - [Baby is here!](#baby-is-here)
 
 <!-- /MarkdownTOC -->
 ## When waiting for baby
 ### Skincare
 Identify unfriendly skincare products by running [this](./skincare/identify_unfriendly_skincare_products.ipynb)
-
-### Delivery bag
-See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
-
 ### Names
 See the full list of names we came up with [here](./preparation/names.md)  
 Final options -  
@@ -28,15 +25,16 @@ Final options -
 | 候选 | 男宝宝 | 女宝宝 | 终选 |
 | --- | --- | --- | ---
 | 大名 | | |
-| 1 | 沈以歌 | 通用 |
+| 1 | 沈以歌 | 通用 | YES
 | 2 |  | 沈览月 |
 | 小名 | | |
 | 1 | 小桔子 | 通用 |
 | 2 | 点点 | 通用 |
 | 3 | 咯咯 | 通用 |
+| 4 | 准准 | 通用 | YES
 | 英文名 | | |
 | 1 | Joey | 通用 |
-| 2 |   | Jade |
+| 2 |   | Jade | (too bitchy after watching why women kill)
 | 3 | Eagle |  |    
 
 ### Daily tracking
@@ -57,8 +55,8 @@ Final options -
 | 9/12/2019 | 35 | 糖葫芦 |   | 不睡觉的海豚 |   | 小马和小猫 | 好心的小白兔 | 羡慕仙鹤的花母鸡 | 
 | 9/19/2019 | 36 | 白猫和花猫争鱼 |  | 迷路的小刺猬 | 聪明人 | 老天鹅 |   | 
 | 9/26/2019 | 37 | 豌豆公主 |   |   |   |   |   |  
-| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   | 白白和黑黑 | 想学本领的小猫 |
-| 10/10/2019 | 39 |  | 餐桌上的悄悄话 |   |   |   |   |  
+| 10/3/2019 | 38 | 萤火虫和小星星 | 书籍的妙趣 |   |   | 白白和黑黑 | | 想学本领的小猫 |
+| 10/10/2019 | 39 |   | 餐桌上的悄悄话 |   |   | 小象的大鞋子 |   |  
 | 10/17/2019 | 40 |   |   |   |   |   |   |  
 
 :woman: Mom's weight tracking :chart_with_upwards_trend:  
@@ -67,6 +65,23 @@ See raw [data](./tracking/daily_tracking.xlsx) and [notebook](./tracking/weight_
 ![trend](./tracking/mom_weight_growth.png)
 
 ## It's time!
+### Delivery bag
+See the full checklist for both mom and baby [here](./preparation/delivery_bag.md)
+### Labor and child birth
+Timeline -   
+- 10/15  
+10:00 pm: 褐色分泌物  
+11:48 pm: 宫缩阵痛  
+- 10/16  
+8:00 am: 内检开半指，住院，从早上到下午宫缩频率不高，没有进步 
+6:00 pm: 宫缩频率加快，达到5分以内一次，阵痛加强，以无心干其他事 
+9:45 pm: 破水，阵痛加剧  
+11:45 pm：开到快两指，准备进产房  
+- 10/17  
+12:00 am+: 推进产房，打无痛前内检已经开到四五指    
+1:00 am+: 打上无痛，太累睡着了  
+3:00 am+: 开到十指，导乐辅助调整宝宝位置，用了花生球，然后助产士接生  
+4:13 am: 宝宝出生，亲密接触1小时  
 
 ## Baby is here!
-
+It's a girl as I wish! Big surprise!
