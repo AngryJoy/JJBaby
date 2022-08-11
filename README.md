@@ -52,4 +52,4 @@ See the full checklist for both mom and baby [here](./preparation/delivery_bag.m
 Timeline -   
 
 ## Baby is here!
-It's a girl as I wish! Big surprise!
+
